@@ -1,0 +1,4 @@
+20,1,1,Juan Perez
+23,2,2,Maria Nieves
+44,1,2,Ramon Coso
+35,2,1,Juana Ortiva
